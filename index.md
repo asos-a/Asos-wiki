@@ -16,4 +16,11 @@ Link: [here](https://discord.gg/Zxzne2JAfY)
 
 Docs: [here](https://asos-1.gitbook.io/asos-bot-docs/)
 
-![ASOS BOT](https://loading.io/asset/302280)
+# Object
+ASOS BOT is a simple and economy discord bot, it's a small bot with a developer
+
+Object of ASOS BOT is to be a most bot, with much features.
+
+My biggest competitor is mee6, the best moderating bot, how do I compete with mee6?
+# Status
+ASOS BOT needing money to buy VPS, to host bot and make much thing
